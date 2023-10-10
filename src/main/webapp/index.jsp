@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Rock Paper Scissors!!!</title>																																																						<html>
+<title>Rock Paper Scissors!!! CODE LAB TECHNOLOGY</title>																																																						<html>
 </head>
 
    <body>
